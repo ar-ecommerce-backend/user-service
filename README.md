@@ -1,6 +1,6 @@
 # user-service
 
-User profile management for the [ar-ecommerce-platform](https://github.com/ar-ecommerce-platform).
+User profile management for the [ar-ecommerce-backend](https://github.com/ar-ecommerce-backend).
 
 - **Port:** 8087
 - **Persistence:** `user_profiles` table. Dev: in-memory H2 (resets on restart). `prod`: PostgreSQL + Flyway.
